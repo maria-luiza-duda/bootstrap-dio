@@ -1,0 +1,29 @@
+.navbar {
+    background-color: rgba(68, 118, 146, 0.733);
+}
+
+.formacao {
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.habilidades {
+    background-color: black;
+    color:white
+}
+
+.portfolio {
+    background-color: black;
+    color: white;
+}
+
+.certificacoes {
+}
+
+.bg-footer {
+    background-color: black;
+    color:white
+}
